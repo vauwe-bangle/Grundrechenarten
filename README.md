@@ -1,3 +1,3 @@
 # Grundrechenarten
 
-siehe "gra-manual.pdf"
+[gra-manual.pdf"](https://github.com/vauwe-bangle/Grundrechenarten/blob/main/gra-manual.pdf)
